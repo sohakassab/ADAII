@@ -1,0 +1,45 @@
+BLE Advertised Device found: Name: , Address: 5f:02:4f:92:b1:8f, manufacturer data: 4c0010053b1c8dd5b9, txPower: 12, rssi: -80
+BLE Advertised Device found: Name: , Address: 19:0d:a1:c9:5d:ac, manufacturer data: 0600010f2022d22a234d7cbf9edcddb8541299396b6118c4185ef83323, rssi: -88
+BLE Advertised Device found: Name: , Address: 3f:68:1c:39:28:04, rssi: -78, serviceData: ␄����␝�5����b.�␡���:�
+BLE Advertised Device found: Name: , Address: 21:9c:4a:41:ba:08, rssi: -78, serviceData: ␄v��
+�␐␏��␎�y␘lnl�ؽ�
+BLE Advertised Device found: Name: , Address: 14:56:3b:bb:b2:91, rssi: -78, serviceData: J␗#22AI␑2W��␂␟��E␚���nM�
+BLE Advertised Device found: Name: , Address: 29:c8:7d:c2:b0:ee, manufacturer data: 06000109202285a005bff239d9e55a5f257fbc07850ee3102e5419ab90, rssi: -86
+BLE Advertised Device found: Name: , Address: 73:1e:8c:5a:17:65, manufacturer data: 4c0010054a1c83ab96, txPower: 12, rssi: -62
+BLE Advertised Device found: Name: , Address: d4:5d:0a:33:c9:58, appearance: 192, manufacturer data: 750001000200010302, rssi: -92
+BLE Advertised Device found: Name: , Address: 7f:de:85:a2:b6:e7, manufacturer data: 4c0010060b1db482a858, txPower: 12, rssi: -94
+BLE Advertised Device found: Name: , Address: 48:24:e6:9f:b7:8e, manufacturer data: 4c001005341cd4031f, txPower: 12, rssi: -65
+BLE Advertised Device found: Name: , Address: 7f:51:a4:8b:f5:45, manufacturer data: 4c0010053f1c8f7d41, txPower: 12, rssi: -83
+BLE Advertised Device found: Name: , Address: 74:ce:27:e3:02:26, manufacturer data: 4c000100000000000000000000000080000000, txPower: 11, rssi: -85
+BLE Advertised Device found: Name: , Address: 15:17:41:9c:fb:f8, rssi: -76, serviceData: J␗#90RV␑20�␕�`�A9�cy%␇��␘�␄
+BLE Advertised Device found: Name: , Address: 59:3b:08:0e:6b:2c, manufacturer data: 4c0010053418e6e686, txPower: 12, rssi: -86
+BLE Advertised Device found: Name: , Address: c3:68:28:56:f0:13, manufacturer data: 4c0012020003, rssi: -82
+BLE Advertised Device found: Name: , Address: 4a:16:8b:40:22:cd, manufacturer data: 4c0010055118ea1c5e, txPower: 12, rssi: -92
+BLE Advertised Device found: Name: , Address: e8:81:59:f1:5c:ea, manufacturer data: 4c0012020001, rssi: -77
+BLE Advertised Device found: Name: , Address: 67:ea:59:3e:36:bb, manufacturer data: 4c000c0e005b0344274008703ad30e60c83910063d1db4e10a68, rssi: -91
+BLE Advertised Device found: Name: , Address: 59:a9:fb:44:c3:e3, manufacturer data: 4c001005341cbb7add, txPower: 12, rssi: -81
+BLE Advertised Device found: Name: , Address: e1:ed:07:8a:8f:cc, manufacturer data: 4c0012020001, rssi: -87
+BLE Advertised Device found: Name: , Address: cc:0f:8c:d5:26:fc, manufacturer data: 4c0012020002, rssi: -83
+BLE Advertised Device found: Name: , Address: 7b:09:1d:02:53:29, manufacturer data: 4c001005641cfa2799, txPower: 12, rssi: -83
+BLE Advertised Device found: Name: , Address: 59:f9:d7:0d:1d:4e, manufacturer data: 4c000c0e000603a2b8e9b2383052ae4429e91005251c801770, rssi: -94
+BLE Advertised Device found: Name: , Address: e0:95:d2:d2:cb:9c, manufacturer data: 4c0012020001, rssi: -80
+BLE Advertised Device found: Name: , Address: c7:c1:01:bd:cd:d0, manufacturer data: 4c0012020001, rssi: -72
+BLE Advertised Device found: Name: , Address: c1:f8:1b:a7:73:b2, manufacturer data: 4c0012020001, rssi: -83
+BLE Advertised Device found: Name: , Address: c9:e1:eb:47:4a:97, manufacturer data: 4c00121900ea993bb82b50db3f7ed6a7673a84d636ffb272e226650200, rssi: -79
+BLE Advertised Device found: Name: , Address: f4:b6:2d:f2:db:dc, manufacturer data: f4b62df2dbdc0000, serviceUUID: daf58701-0000-1000-8000-00805f9b34fb, rssi: -85
+BLE Advertised Device found: Name: , Address: f9:e9:3f:1c:a1:b7, manufacturer data: 4c0012020000, rssi: -85
+BLE Advertised Device found: Name: , Address: 65:1c:61:45:7e:90, manufacturer data: 4c001005381c212e46, txPower: 11, rssi: -96
+␃����&J�_�ised Device found: Name: , Address: 5f:7f:04:ba:78:6b, serviceUUID: 0000fd5a-0000-1000-8000-00805f9b34fb, rssi: -79, serviceData: ␕�
+BLE Advertised Device found: Name: , Address: dc:f1:44:69:e2:b5, manufacturer data: 4c00121900d4ad266e7beed0ffebb314b6a599878620113f5e1f5e0300, rssi: -65
+BLE Advertised Device found: Name: , Address: c8:a5:6c:36:58:ac, manufacturer data: 4c0012020002, rssi: -93
+BLE Advertised Device found: Name: , Address: f2:d0:9b:ed:86:66, manufacturer data: 4c0012020003, rssi: -98
+BLE Advertised Device found: Name: , Address: ee:ae:4d:29:cd:6d, manufacturer data: 4c0012020003, rssi: -83
+BLE Advertised Device found: Name: , Address: df:58:ee:7d:22:c0, manufacturer data: 4c0012020003, rssi: -94
+BLE Advertised Device found: Name: oraimo SpaceBuds Neo BLE
+BLE Advertised Device found: Name: , Address: dd:8c:1b:96:2c:d4, manufacturer data: 4c0012020002, rssi: -76
+BLE Advertised Device found: Name: , Address: e3:85:96:a0:8f:78, manufacturer data: 4c0012020001, rssi: -78
+BLE Advertised Device found: Name: , Address: 4e:76:4f:82:02:e4, manufacturer data: 7500021861b18dc3df037a5044500031e96a4c48f1a720b57896, rssi: -90
+BLE Advertised Device found: Name: , Address: ca:91:e4:a2:c3:ed, manufacturer data: 4c0012020002, rssi: -87
+BLE Advertised Device found: Name: , Address: 67:bb:3d:0e:b2:94, manufacturer data: 4c001005361c630054, txPower: 11, rssi: -97
+BLE Advertised Device found: Name: , Address: f4:cf:16:ed:25:84, manufacturer data: 4c0012020002, rssi: -92
+BLE Advertised Device found: Name: , Address: f8:de:33:5b:d6:85, manufacturer data: 4c0012020001, rssi: -85
